@@ -1,0 +1,6 @@
+version 0.2.44
+d19047fc537f202aaf66d7527059789f6ac61006964a7aedbbb492ee51582ae6  leoprevent-plugin-darwin-arm64
+d03012b16d14b008ba6675f5d5e877dc0cd01232e3d164731a13c4a838842a28  leoprevent-plugin-darwin-amd64
+0d75300272b59459e5141725e8f428d2b3d27e41a6486befd29c8c5e37dea6f6  leoprevent-plugin-linux-amd64
+02daa285e4f468f8d8de012e8a068a1695a7591ca4b31a5909d858a760c5e6f6  leoprevent-plugin-linux-arm64
+a79bbf48be3c18c3a489b620cc72957149df3b73c186ca1f4c337447895a3be0  leoprevent-plugin-windows-amd64.exe
